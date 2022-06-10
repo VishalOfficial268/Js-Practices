@@ -1,0 +1,26 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "nodemon index.js",
+    "basics": "nodemon basics.js",
+    "loops": "nodemon loops.js",
+    "switchcase": "nodemon switchcase.js",
+    "functions": "nodemon functions.js",
+    "function-questions": "nodemon function-questions.js",
+    "function-question2": "nodemon function-question2.js",
+    "object-basics": "nodemon object-basics.js",
+    "data-types": "nodemon data-types.js",
+    "array": "nodemon array.js",
+    "map-set": "nodemon map-set.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
