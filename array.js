@@ -385,3 +385,22 @@
 // map.set(1, 'num1');     // a numeric key
 // map.set(true, 'bool1');
 // console.log(map)
+// console.log(24+6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
