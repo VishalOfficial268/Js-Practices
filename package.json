@@ -15,7 +15,10 @@
     "object-basics": "nodemon object-basics.js",
     "data-types": "nodemon data-types.js",
     "array": "nodemon array.js",
-    "map-set": "nodemon map-set.js"
+    "map-set": "nodemon map-set.js",
+    "object-keys": "nodemon object-keys-values-entries.js",
+    "destuctring": "nodemon destuctring.js",
+    "json-tojson": "nodemon json-tojson.js"
   },
   "keywords": [],
   "author": "",

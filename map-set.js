@@ -182,3 +182,34 @@
 // weakmap.set(obj, "Okay");
 // weakmap.set("newKye", "testing");
 // console.log(weakmap);
+
+// let john = { name: "John" };
+
+// let map = new Map();
+// map.set(john, "testingMap")
+// let array = [ john ];
+
+// john = null; // overwrite the reference
+// console.log(array)
+// console.log(map)
+
+
+// let user = {name : "john", age: 26}
+// let map = new Map();
+// let weakMap = new WeakMap();
+// map.set(user, "userItemFromMap");
+// weakMap.set(user, "userItemFromWeakMap");
+// user = null;
+// weakMap.set("test","newTest")
+
+
+// console.log(map);
+// console.log(weakMap);
+
+
+
+
+
+
+
+
