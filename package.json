@@ -18,7 +18,8 @@
     "map-set": "nodemon map-set.js",
     "object-keys": "nodemon object-keys-values-entries.js",
     "destuctring": "nodemon destuctring.js",
-    "json-tojson": "nodemon json-tojson.js"
+    "json-tojson": "nodemon json-tojson.js",
+    "advance-functions":"nodemon advance-functions.js"
   },
   "keywords": [],
   "author": "",
