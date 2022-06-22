@@ -20,7 +20,8 @@
     "destuctring": "nodemon destuctring.js",
     "json-tojson": "nodemon json-tojson.js",
     "advance-functions": "nodemon advance-functions.js",
-    "object-properties-configuration": "nodemon object-properties-configuration.js"
+    "object-properties-configuration": "nodemon object-properties-configuration.js",
+    "prototype-inheritance": "nodemon prototype-inheritance.js"
   },
   "keywords": [],
   "author": "",
