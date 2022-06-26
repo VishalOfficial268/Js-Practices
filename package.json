@@ -21,7 +21,9 @@
     "json-tojson": "nodemon json-tojson.js",
     "advance-functions": "nodemon advance-functions.js",
     "object-properties-configuration": "nodemon object-properties-configuration.js",
-    "prototype-inheritance": "nodemon prototype-inheritance.js"
+    "prototype-inheritance": "nodemon prototype-inheritance.js",
+    "classes": "nodemon classes.js",
+    "error-handling": "nodemon error-handling.js"
   },
   "keywords": [],
   "author": "",
