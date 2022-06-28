@@ -25,7 +25,8 @@
     "prototype-inheritance": "nodemon prototype-inheritance.js",
     "classes": "nodemon classes.js",
     "error-handling": "nodemon error-handling.js",
-    "module": "nodemon module.js"
+    "module": "nodemon module.js",
+    "eval": "nodemon eval.js"
   },
   "keywords": [],
   "author": "",
