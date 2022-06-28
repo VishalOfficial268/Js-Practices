@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "index": "nodemon index.js",
@@ -23,7 +24,8 @@
     "object-properties-configuration": "nodemon object-properties-configuration.js",
     "prototype-inheritance": "nodemon prototype-inheritance.js",
     "classes": "nodemon classes.js",
-    "error-handling": "nodemon error-handling.js"
+    "error-handling": "nodemon error-handling.js",
+    "module": "nodemon module.js"
   },
   "keywords": [],
   "author": "",
