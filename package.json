@@ -26,7 +26,8 @@
     "classes": "nodemon classes.js",
     "error-handling": "nodemon error-handling.js",
     "module": "nodemon module.js",
-    "eval": "nodemon eval.js"
+    "eval": "nodemon eval.js",
+    "currying": "nodemon currying.js"
   },
   "keywords": [],
   "author": "",
